@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3C4EC9</color>
+    <color name="colorPrimaryDark">#303A9F</color>
+    <color name="colorAccent">#686868</color>
+    <color name="white">#fff</color>
+    <color name="recyclerViewBg">#D1D1D1</color>
+    <color name="mobileListName">#D1D1D1</color>
+    <color name="black">#dc000000</color>
+</resources>
